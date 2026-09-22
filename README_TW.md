@@ -20,7 +20,7 @@
   </div>
 </div>
 
-[English](./README.md) | [简体中文](./README_CN.md) | 繁體中文 | [日本語](./README_JA.md)
+[English](./README.md) | [简体中文](./README_CN.md) | 繁體中文 | [日本語](./README_JA.md) | [Deutsch](./README_DE.md) | [Français](./README_FR.md)
 
 [LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) 是一款為 macOS 26 與 macOS 27 重新打磨的 Launchpad（啟動台）替代產品，只需要一個小小的安裝包，就能恢復經典啟動台的操作體驗。它最大的特色，是完整保留原生啟動台的操作手感與肌肉記憶，使用時順滑流暢，並在原生體驗之上加入增強最佳化功能。它輕量、克制、細緻打磨，從視覺風格到互動手感，在極致還原原生啟動台體驗的同時，也與新系統的 Liquid Glass 風格自然融合。
 
@@ -28,7 +28,7 @@
 
 
 
-![interface](assets/interface.png)
+![interface](assets/interface.jpg)
 
 
 
@@ -101,23 +101,6 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-rename.svg" alt="自訂應用程式名稱" width="72" /><br />
-      <strong>自訂應用程式名稱</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-app-source.svg" alt="自訂應用程式來源" width="72" /><br />
-      <strong>自訂應用程式來源</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-hide.svg" alt="隱藏不需要的應用程式" width="72" /><br />
-      <strong>隱藏不需要的應用程式</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="完整解除安裝應用程式" width="72" /><br />
       <strong>完整解除安裝應用程式</strong><br />
       <sub><code>PRO</code></sub>
@@ -128,14 +111,31 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-reorganize.svg" alt="重新整理版面" width="72" /><br />
-      <strong>重新整理版面</strong><br />
+      <img src="assets/icon-multi.svg" alt="多選與批次操作" width="72" /><br />
+      <strong>多選與批次操作</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon-rename.svg" alt="自訂應用程式名稱" width="72" /><br />
+      <strong>自訂應用程式名稱</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-iteration.svg" alt="持續快速迭代" width="72" /><br />
-      <strong>持續快速迭代</strong><br />
-      <sub><code>基於你的回饋</code></sub>
+      <img src="assets/icon-hide.svg" alt="隱藏不需要的應用程式" width="72" /><br />
+      <strong>隱藏不需要的應用程式</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="自訂應用程式來源" width="72" /><br />
+      <strong>自訂應用程式來源</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="重新整理版面" width="72" /><br />
+      <strong>重新整理版面</strong><br />
+      <sub><code>PRO</code></sub>
     </td>
   </tr>
 </table>

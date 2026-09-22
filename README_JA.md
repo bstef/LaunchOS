@@ -20,7 +20,7 @@
   </div>
 </div>
 
-[English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | 日本語
+[English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TW.md) | 日本語 | [Deutsch](./README_DE.md) | [Français](./README_FR.md)
 
 [LaunchOS](https://launchosapp.com/?utm_source=github&utm_medium=readme) は、macOS 26 と macOS 27 のために作り直された Launchpad 代替ツールです。小さなインストーラーだけで、クラシックな Launchpad の操作体験を取り戻せます。最大の特徴は、ネイティブ Launchpad の操作感と筋肉記憶をそのまま残していることです。滑らかで自然に使え、さらにネイティブ体験の上に実用的な改善も加えています。軽量で、控えめで、細部まで磨き込まれており、ネイティブ Launchpad の体験を高い精度で再現しながら、新しいシステムの Liquid Glass スタイルにも自然に馴染みます。
 
@@ -28,7 +28,7 @@
 
 
 
-![interface](assets/interface.png)
+![interface](assets/interface.jpg)
 
 
 
@@ -101,23 +101,6 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-rename.svg" alt="アプリ名のカスタマイズ" width="72" /><br />
-      <strong>アプリ名のカスタマイズ</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
-      <strong>アプリソースのカスタマイズ</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-    <td align="center">
-      <img src="assets/icon-hide.svg" alt="不要なアプリを非表示" width="72" /><br />
-      <strong>不要なアプリを非表示</strong><br />
-      <sub><code>PRO</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/icon-uninstall.svg" alt="アプリを完全にアンインストール" width="72" /><br />
       <strong>アプリを完全にアンインストール</strong><br />
       <sub><code>PRO</code></sub>
@@ -128,14 +111,31 @@
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-reorganize.svg" alt="レイアウトを再整理" width="72" /><br />
-      <strong>レイアウトを再整理</strong><br />
+      <img src="assets/icon-multi.svg" alt="複数選択と一括操作" width="72" /><br />
+      <strong>複数選択と一括操作</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/icon-rename.svg" alt="アプリ名のカスタマイズ" width="72" /><br />
+      <strong>アプリ名のカスタマイズ</strong><br />
       <sub><code>PRO</code></sub>
     </td>
     <td align="center">
-      <img src="assets/icon-iteration.svg" alt="高速な改善を継続" width="72" /><br />
-      <strong>高速な改善を継続</strong><br />
-      <sub><code>あなたのフィードバックをもとに</code></sub>
+      <img src="assets/icon-hide.svg" alt="不要なアプリを非表示" width="72" /><br />
+      <strong>不要なアプリを非表示</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-app-source.svg" alt="アプリソースのカスタマイズ" width="72" /><br />
+      <strong>アプリソースのカスタマイズ</strong><br />
+      <sub><code>PRO</code></sub>
+    </td>
+    <td align="center">
+      <img src="assets/icon-reorganize.svg" alt="レイアウトを再整理" width="72" /><br />
+      <strong>レイアウトを再整理</strong><br />
+      <sub><code>PRO</code></sub>
     </td>
   </tr>
 </table>
